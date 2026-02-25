@@ -1,0 +1,64 @@
+{
+  "hotel": {
+    "name": "Hotel Musterhaus",
+    "id": "A0000",
+    "url": "https://www.example.com",
+    "favicon": "https://www.example.com/favicon.ico",
+    "phone": "+39 0474 000000",
+    "email": "info@example.com",
+    "bookingUrl": "https://www.example.com/buchen"
+  },
+  "theme": {
+    "colors": {
+      "primary": "#2c5f2d",
+      "secondary": "#97bc62",
+      "accent": "#d4a843",
+      "text": "#1a1a1a",
+      "textLight": "#6b7280",
+      "background": "#fafaf8",
+      "backgroundAlt": "#f0ebe3",
+      "white": "#ffffff"
+    },
+    "fonts": {
+      "heading": "Cormorant Garamond",
+      "body": "Lato"
+    }
+  },
+  "hero": {
+    "text": "Willkommen im Paradies",
+    "description": "Erleben Sie unvergessliche Momente inmitten der Südtiroler Bergwelt. Ihr Rückzugsort für Körper und Seele.",
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1600&q=80",
+    "ctaText": "Jetzt anfragen",
+    "ctaUrl": "https://www.example.com/buchen"
+  },
+  "sections": {
+    "about": {
+      "enabled": true,
+      "title": "Über uns",
+      "text": "Seit Generationen heißen wir Gäste aus aller Welt willkommen. Unser Haus verbindet alpinen Charme mit modernem Komfort.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80"
+    },
+    "gallery": {
+      "enabled": true,
+      "title": "Impressionen",
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=600&q=80",
+        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=600&q=80",
+        "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=600&q=80",
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&q=80",
+        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=600&q=80"
+      ]
+    },
+    "cta": {
+      "enabled": true,
+      "title": "Bereit für Ihren Traumurlaub?",
+      "text": "Sichern Sie sich jetzt Ihren Wunschtermin.",
+      "buttonText": "Verfügbarkeit prüfen",
+      "buttonUrl": "https://www.example.com/buchen"
+    }
+  },
+  "footer": {
+    "text": "© 2026 Hotel Musterhaus. Alle Rechte vorbehalten."
+  }
+}
