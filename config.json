@@ -1,53 +1,54 @@
 {
   "hotel": {
-    "name": "Hotel Musterhaus",
-    "id": "A0000",
-    "url": "https://www.example.com",
-    "favicon": "https://www.example.com/favicon.ico",
-    "phone": "+39 0474 000000",
-    "email": "info@example.com",
-    "bookingUrl": "https://www.example.com/buchen"
+    "name": "Kinderhotel",
+    "id": "A1026",
+    "url": "https://www.kinderhotel-waldhof.at/",
+    "favicon": "https://www.kinderhotel-waldhof.at/static/img/favicon.png",
+    "logo": "https://www.kinderhotel-waldhof.at/logos-awards/h_logo.png",
+    "phone": "",
+    "email": "",
+    "bookingUrl": "https://www.kinderhotel-waldhof.at/"
   },
   "theme": {
     "colors": {
-      "primary": "#2c5f2d",
-      "secondary": "#97bc62",
-      "accent": "#d4a843",
-      "text": "#1a1a1a",
-      "textLight": "#6b7280",
-      "background": "#fafaf8",
-      "backgroundAlt": "#f0ebe3",
+      "primary": "#007978",
+      "secondary": "#80BDBA",
+      "accent": "#CC3F0C",
+      "text": "#2C2C2C",
+      "textLight": "#9ca3af",
+      "background": "#FEF9F9",
+      "backgroundAlt": "#E5E4E2",
       "white": "#ffffff"
     },
     "fonts": {
-      "heading": "Cormorant Garamond",
-      "body": "Lato"
+      "heading": "Fauna One",
+      "body": "Source Sans Pro"
     }
   },
   "hero": {
-    "text": "Willkommen im Paradies",
-    "description": "Erleben Sie unvergessliche Momente inmitten der Südtiroler Bergwelt. Ihr Rückzugsort für Körper und Seele.",
-    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1600&q=80",
+    "text": "Familienglück im Premium Kinderhotel Waldhof",
+    "description": "Unvergessliche Abenteuer für die ganze Familie in den Salzburger Alpen. 24h Betreuung, Wassererlebnisse und grenzenloser Spaß für Groß und Klein.",
+    "image": "https://www.kinderhotel-waldhof.at/hotel-aussen/winter/2024/1100/image-thumb__1100__ce-intro-mobile/andreschoenherr_PANO0001-Pano.jpg",
     "ctaText": "Jetzt anfragen",
-    "ctaUrl": "https://www.example.com/buchen"
+    "ctaUrl": "https://www.kinderhotel-waldhof.at/"
   },
   "sections": {
     "about": {
       "enabled": true,
       "title": "Über uns",
-      "text": "Seit Generationen heißen wir Gäste aus aller Welt willkommen. Unser Haus verbindet alpinen Charme mit modernem Komfort.",
-      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80"
+      "text": "Das Premium Kinderhotel Waldhof in Großarl bietet auf 4.000 m² Gaudialm alles für den perfekten Familienurlaub. Mit Indoor Spieleparadies, eigenem Skigebiet und umfassender All-Inclusive Betreuung werden Urlaubsträume wahr.",
+      "image": "https://www.kinderhotel-waldhof.at/baden-wellness/trioslide-rutsche/1078/image-thumb__1078__ce-hva-template-2/andreschoenherr__NZ92388_higher.jpg"
     },
     "gallery": {
       "enabled": true,
       "title": "Impressionen",
       "images": [
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
-        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=600&q=80",
-        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=600&q=80",
-        "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=600&q=80",
-        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&q=80",
-        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=600&q=80"
+        "https://www.kinderhotel-waldhof.at/baden-wellness/trioslide-rutsche/1078/image-thumb__1078__ce-hva-template-2/andreschoenherr__NZ92388_higher.jpg",
+        "https://www.kinderhotel-waldhof.at/kinder/bergwerk_softplay/216/image-thumb__216__ce-hva-template-3/andreschoenherr_DSC2599.jpg",
+        "https://www.kinderhotel-waldhof.at/winter/skiwiese-skikurse/668/image-thumb__668__ce-hva-template-1/andreschoenherr_DSC1370.jpg",
+        "https://www.kinderhotel-waldhof.at/baden-wellness/infinitypool/2024/87/image-thumb__87__ce-heroteaser-1-layout-2/andreschoenherr_DJI_20240308161013_0143_D.jpg",
+        "https://www.kinderhotel-waldhof.at/winter/tuffi-rodeln/734/image-thumb__734__ce-hva-template-5/DSC03034.jpg",
+        "https://www.kinderhotel-waldhof.at/tiere/ponyreiten/2020/622/image-thumb__622__ce-imageslider-square/andreschoenherr_DSC7619.jpg"
       ]
     },
     "cta": {
@@ -55,10 +56,10 @@
       "title": "Bereit für Ihren Traumurlaub?",
       "text": "Sichern Sie sich jetzt Ihren Wunschtermin.",
       "buttonText": "Verfügbarkeit prüfen",
-      "buttonUrl": "https://www.example.com/buchen"
+      "buttonUrl": "https://www.kinderhotel-waldhof.at/"
     }
   },
   "footer": {
-    "text": "© 2026 Hotel Musterhaus. Alle Rechte vorbehalten."
+    "text": "© 2026 Kinderhotel. Alle Rechte vorbehalten."
   }
 }
